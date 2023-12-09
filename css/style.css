@@ -1,0 +1,18 @@
+body{
+    margin: 9px;
+}
+div{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Anton', sans-serif;    
+}
+button:hover{
+    background-color: green;
+}
